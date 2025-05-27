@@ -7,3 +7,6 @@ done bugwe are developing note app
 =======
 added ui
 >>>>>>> 4399790 (we added ui)
+
+
+we are on submit button
