@@ -2,4 +2,7 @@ developing note app
 
 added ui
 main
-done bug
+added ui
+
+we are on submit button
+first
