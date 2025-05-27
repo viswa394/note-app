@@ -3,3 +3,5 @@ developing note app
 added ui
 main
 added ui
+
+we are on submit button
