@@ -7,5 +7,4 @@ done bugwe are developing note app
 added ui
 
 
-we are on submit button
-first
+
