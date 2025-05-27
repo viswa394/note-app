@@ -2,4 +2,4 @@ developing note app
 
 added ui
 main
-done bug
+done bugwe are developing note app
